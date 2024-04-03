@@ -15,7 +15,7 @@ idna==3.4
 importlib-metadata==6.8.0
 importlib-resources==6.1.0
 mysql-connector-python==8.1.0
-Pillow==10.0.0
+Pillow==10.3.0
 pipenv==2023.8.28
 pkinter==1.37.2
 platformdirs==3.10.0
