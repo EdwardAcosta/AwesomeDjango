@@ -11,7 +11,7 @@ executor==23.2
 fasteners==0.19
 filelock==3.12.3
 humanfriendly==10.0
-idna==3.4
+idna==3.7
 importlib-metadata==6.8.0
 importlib-resources==6.1.0
 mysql-connector-python==8.1.0
