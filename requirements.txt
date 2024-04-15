@@ -28,7 +28,7 @@ requests==2.31.0
 rshell==0.0.31
 six==1.16.0
 soupsieve==2.5
-sqlparse==0.4.4
+sqlparse==0.5.0
 tk==0.1.0
 urllib3==2.0.4
 verboselogs==1.7
