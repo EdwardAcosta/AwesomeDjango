@@ -24,7 +24,7 @@ protobuf==4.21.12
 psycopg2==2.9.6
 pyserial==3.5
 pyudev==0.24.1
-requests==2.31.0
+requests==2.32.0
 rshell==0.0.31
 six==1.16.0
 soupsieve==2.5
